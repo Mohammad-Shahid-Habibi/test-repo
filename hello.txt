@@ -1,1 +1,3 @@
 Hello GitHub! Learning Git step-by-step.
+
+I'm learning GitHub like a pro!
