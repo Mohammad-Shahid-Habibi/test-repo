@@ -1,3 +1,5 @@
 Hello GitHub! Learning Git step-by-step.
 
 I'm learning GitHub like a pro!
+
+I'm working inside a branch called new-feature!
